@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/sulemanpatras/portfolio/static/css/main.7fc19607.css",
+    "main.js": "/sulemanpatras/portfolio/static/js/main.1babfc13.js",
+    "index.html": "/sulemanpatras/portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.7fc19607.css",
+    "static/js/main.1babfc13.js"
+  ]
+}
