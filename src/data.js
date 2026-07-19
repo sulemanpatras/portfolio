@@ -12,7 +12,7 @@ export const profile = {
   about:
     "I'm a backend-focused full-stack developer working across PHP, Laravel, React.js, Next.js, Node.js and Python. Most of my recent work sits at the intersection of solid backend engineering and applied AI — building chatbots, customer support bots, document upload-to-autofill pipelines, and suggestion engines on top of the Anthropic Claude, Google Gemini and OpenAI APIs. I care about clean APIs, sane database design, and shipping features that actually get used.",
   resumeUrl: "/Suleman_Patras_Khan_Resume.pdf",
-  photo: "/suleman.jpg",
+  photo: "https://sulemanpatras.github.io/portfolio/suleman.jpg",
 };
 
 export const socials = {
@@ -129,7 +129,7 @@ export const projects = [
     description:
       "Enterprise web platform built and maintained with Laravel and a modern frontend stack.",
     tags: ["Laravel", "JavaScript"],
-    img: "/projects/gms.png",
+    img: "https://sulemanpatras.github.io/portfolio/projects/gms.png",
     link: "https://www.gmsplc.com/",
     featured: true,
   },
